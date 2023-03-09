@@ -2,7 +2,7 @@
 
 ## FOOD DROP USER BACKEND WITH SHARED SERVICES
 
-### Example .env in root directory
+### Example .env for food_drop_user_service
 
 ```bash
   MONGO_USER=admin
